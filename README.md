@@ -5,6 +5,7 @@ The objective is to provide a more in-depth analysis of UFO sightings by allowin
 
 ## (2) Results                                                                           
 On the left hand side of the webpage, there are five filters (date, city, state, country, and shape) that users could use to sort out the UFO records. 
+
 ![image](https://github.com/sunnycywong/Module-11-UFO/blob/main/Filters.png)
 
 Below are two sample results that were pulled by using the date filter and state filter.
